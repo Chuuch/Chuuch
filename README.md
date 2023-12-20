@@ -50,6 +50,11 @@ intuitive post creation, while fostering community engagement with likes and com
 The implementation of CRUD operations guarantees a smooth and efficient user
 experience, allowing for the effortless management of content.
 
+### Project 3: Portfolio
+A portfolio showcasing the projects I have worked on since the start of my journey as a
+software developer. It is a representation of my growth, skill set & devotion to my dream
+of becoming a great developer.
+
 ## 📫 Let's Connect
 
 Feel free to reach out for collaboration, mentorship, or just to chat about the latest tech trends. Connect with me on [LinkedIn](https://www.linkedin.com/in/chuchulev) or follow me on [Twitter](https://twitter.com/chuchulev).
