@@ -32,7 +32,7 @@ Exploring serverless architectures, GraphQL, and advanced optimization technique
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuuch&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Chuuch)
 
 ## 📚 Projects
 
