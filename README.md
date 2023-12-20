@@ -52,6 +52,6 @@ experience, allowing for the effortless management of content.
 
 ## 📫 Let's Connect
 
-Feel free to reach out for collaboration, mentorship, or just to chat about the latest tech trends. Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin) or follow me on [Twitter](https://twitter.com/yourtwitter).
+Feel free to reach out for collaboration, mentorship, or just to chat about the latest tech trends. Connect with me on [LinkedIn](https://www.linkedin.com/in/chuchulev) or follow me on [Twitter](https://twitter.com/chuchulev).
 
 Happy coding! 👨‍💻
