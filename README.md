@@ -28,7 +28,7 @@ I am a results-driven software developer with a passion for building innovative 
 
 ## 🌱 Currently Learning
 
-Exploring serverless architectures, GraphQL, and advanced optimization techniques.
+Exploring serverless architectures, Databases, and advanced optimization techniques.
 
 ## 📈 GitHub Stats
 
@@ -50,6 +50,9 @@ intuitive post creation, while fostering community engagement with likes and com
 The implementation of CRUD operations guarantees a smooth and efficient user
 experience, allowing for the effortless management of content.
 
+![Forum](https://github.com/Chuuch/Chuuch/assets/78451418/61916626-b956-445c-b304-be60b3207d7f)
+
+
 ### Project 3: Portfolio
 A portfolio showcasing the projects I have worked on since the start of my journey as a
 software developer. It is a representation of my growth, skill set & devotion to my dream
@@ -57,6 +60,9 @@ of becoming a great developer.
 
 ![ECD650AB-A07D-444A-AC8C-8D3AC1A9D9A7](https://github.com/Chuuch/Chuuch/assets/78451418/44ada944-def3-46da-a0b4-752eca824111)
 
+## 🎓 Courses
+
+![certificate](https://github.com/Chuuch/Chuuch/assets/78451418/5dc97cc7-6ae7-4b3d-81ff-0bdb0152d932)
 
 ## 📫 Let's Connect
 
