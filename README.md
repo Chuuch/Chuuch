@@ -55,6 +55,9 @@ A portfolio showcasing the projects I have worked on since the start of my journ
 software developer. It is a representation of my growth, skill set & devotion to my dream
 of becoming a great developer.
 
+![ECD650AB-A07D-444A-AC8C-8D3AC1A9D9A7](https://github.com/Chuuch/Chuuch/assets/78451418/44ada944-def3-46da-a0b4-752eca824111)
+
+
 ## 📫 Let's Connect
 
 Feel free to reach out for collaboration, mentorship, or just to chat about the latest tech trends. Connect with me on [LinkedIn](https://www.linkedin.com/in/chuchulev) or follow me on [Twitter](https://twitter.com/chuchulev).
