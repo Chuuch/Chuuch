@@ -62,6 +62,8 @@ of becoming a great developer.
 
 ## 🎓 Courses
 
+### Telerik Academy Alpha JavaScript Track
+
 ![certificate](https://github.com/Chuuch/Chuuch/assets/78451418/5dc97cc7-6ae7-4b3d-81ff-0bdb0152d932)
 
 ## 📫 Let's Connect
