@@ -36,12 +36,13 @@ Exploring serverless architectures, Databases, and advanced optimization techniq
 
 ## 📚 Projects
 
-### Project 1: ConnectBuddy Messenger
-A messaging web application powered by React, Typescript, Tailwind CSS, Framer Motion
-& Firebase. Users can effortlessly register, personalized profiles and participate in teams
-for streamlined collaboration. Implemented a chat feature as well as voice & video call
-functionality. The application prioritizes user control, allowing the flexibility to block or
-connect with others based on individual preferences.
+### Project 1: Portfolio
+A portfolio showcasing the projects I have worked on since the start of my journey as a
+software engineer. It is a representation of my growth, skill set & devotion to my dream
+of becoming a great developer. Technologies used in the project include React, TypeScript
+Tailwind CSS, Framer Motion, Sanity CMS & Next JS.
+
+![ECD650AB-A07D-444A-AC8C-8D3AC1A9D9A7](https://github.com/Chuuch/Chuuch/assets/78451418/44ada944-def3-46da-a0b4-752eca824111)
 
 ### Project 2: DevTalk Forum
 A forum web application designed for seamless user interaction, built with React, Tailwind
@@ -52,14 +53,12 @@ experience, allowing for the effortless management of content.
 
 ![Forum](https://github.com/Chuuch/Chuuch/assets/78451418/61916626-b956-445c-b304-be60b3207d7f)
 
-
-### Project 3: Portfolio
-A portfolio showcasing the projects I have worked on since the start of my journey as a
-software engineer. It is a representation of my growth, skill set & devotion to my dream
-of becoming a great developer. Technologies used in the project include React, TypeScript
-Tailwind CSS, Framer Motion, Sanity CMS & Next JS.
-
-![ECD650AB-A07D-444A-AC8C-8D3AC1A9D9A7](https://github.com/Chuuch/Chuuch/assets/78451418/44ada944-def3-46da-a0b4-752eca824111)
+### Project 3: ConnectBuddy Messenger
+A messaging web application powered by React, Typescript, Tailwind CSS, Framer Motion
+& Firebase. Users can effortlessly register, personalized profiles and participate in teams
+for streamlined collaboration. Implemented a chat feature as well as voice & video call
+functionality. The application prioritizes user control, allowing the flexibility to block or
+connect with others based on individual preferences.
 
 ### Project 4: Home4You MERN Real Estate
 
