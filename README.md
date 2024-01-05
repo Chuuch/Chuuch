@@ -55,14 +55,14 @@ experience, allowing for the effortless management of content.
 
 ### Project 3: ConnectBuddy Messenger
 A messaging web application powered by React, Typescript, Tailwind CSS, Framer Motion
-& Firebase. Users can effortlessly register, personalized profiles and participate in teams
+& Firebase. Users can effortlessly register, personalized profiles, and participate in teams
 for streamlined collaboration. Implemented a chat feature as well as voice & video call
 functionality. The application prioritizes user control, allowing the flexibility to block or
 connect with others based on individual preferences.
 
 ### Project 4: Home4You MERN Real Estate
 
-This project is an advanced MERN Stack real estate application, featuring MongoDB, Express.js, React.js, and Node.js. With Tailwind CSS for a polished UI, the platform offers secure JSON Web Token authentication and an optional Google Authentication via a convenient pop-up sign-in. Enhanced by Redux for efficient state management, this solution redefines the real estate experience, combining security, flexibility, and modern design.
+This project is an advanced MERN Stack real estate application, featuring MongoDB, Express.js, React.js, Node.js, and Firebase. With Tailwind CSS for a polished UI, the platform offers secure JSON Web Token authentication and an optional Google Authentication via a convenient pop-up sign-in. Enhanced by Redux for efficient state management, this solution redefines the real estate experience, combining security, flexibility, and modern design.
 
 ## 🎓 Courses
 
