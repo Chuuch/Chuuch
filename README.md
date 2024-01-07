@@ -69,6 +69,8 @@ This project is an advanced MERN Stack real estate application, featuring MongoD
 ### Telerik Academy Alpha JavaScript Track
 
 ![certificate](https://github.com/Chuuch/Chuuch/assets/78451418/5dc97cc7-6ae7-4b3d-81ff-0bdb0152d932)
+![Screenshot 2024-01-07 at 21 55 32](https://github.com/Chuuch/Chuuch/assets/78451418/c9822622-95ff-4e7d-865b-c99423fc042f)
+
 
 ## 📫 Let's Connect
 
