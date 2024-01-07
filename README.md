@@ -53,12 +53,10 @@ experience, allowing for the effortless management of content.
 
 ![Forum](https://github.com/Chuuch/Chuuch/assets/78451418/61916626-b956-445c-b304-be60b3207d7f)
 
-### Project 3: ConnectBuddy Messenger
-A messaging web application powered by React, Typescript, Tailwind CSS, Framer Motion
-& Firebase. Users can effortlessly register, personalized profiles, and participate in teams
-for streamlined collaboration. Implemented a chat feature as well as voice & video call
-functionality. The application prioritizes user control, allowing the flexibility to block or
-connect with others based on individual preferences.
+### Project 3: Spotify Clone
+The Spotify Clone Application is a sophisticated music streaming platform meticulously crafted using React, TypeScript, Tailwind CSS, Next.js, PostgreSQL, Supabase, and Stripe. Boasting a dynamic and responsive UI, the application offers secure user authentication through Supabase, while TypeScript ensures code quality and minimized runtime errors. Tailwind CSS contributes to a sleek and modern design, enhancing the user experience across devices. Leveraging PostgreSQL and Supabase for database management enables efficient storage and real-time functionality. The application replicates core Spotify features, allowing users to search, play, and create playlists, with Stripe integration ensuring a secure and seamless payment process for premium subscriptions. With its scalable architecture and clean codebase, the Spotify Clone stands as a high-quality replica, providing a realistic and enjoyable music streaming experience while offering a solid foundation for future enhancements and developments.
+
+![0A9F50FB-948E-4102-8F89-09DF7BD95D7A](https://github.com/Chuuch/Chuuch/assets/78451418/4c83ed1a-484e-4183-addb-70a4f8344cf3)
 
 ### Project 4: Home4You MERN Real Estate
 
