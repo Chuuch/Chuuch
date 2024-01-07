@@ -64,6 +64,8 @@ connect with others based on individual preferences.
 
 This project is an advanced MERN Stack real estate application, featuring MongoDB, Express.js, React.js, Node.js, and Firebase. With Tailwind CSS for a polished UI, the platform offers secure JSON Web Token authentication and an optional Google Authentication via a convenient pop-up sign-in. Enhanced by Redux for efficient state management, this solution redefines the real estate experience, combining security, flexibility, and modern design.
 
+![DA458D59-D899-46F7-A34B-61A9D72954D3](https://github.com/Chuuch/Chuuch/assets/78451418/f20cf3c3-8854-4b2f-91fc-4f4afb4ee15a)
+
 ## 🎓 Courses
 
 ### Telerik Academy Alpha JavaScript Track
