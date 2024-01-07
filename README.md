@@ -40,7 +40,7 @@ Exploring serverless architectures, Databases, and advanced optimization techniq
 A portfolio showcasing the projects I have worked on since the start of my journey as a
 software engineer. It is a representation of my growth, skill set & devotion to my dream
 of becoming a great developer. Technologies used in the project include React, TypeScript
-Tailwind CSS, Framer Motion, Sanity CMS & Next JS.
+Tailwind CSS, Framer Motion, Sanity CMS & Next JS among others.
 
 ![ECD650AB-A07D-444A-AC8C-8D3AC1A9D9A7](https://github.com/Chuuch/Chuuch/assets/78451418/44ada944-def3-46da-a0b4-752eca824111)
 
