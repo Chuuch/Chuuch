@@ -53,18 +53,14 @@ experience, allowing for the effortless management of content.
 
 ![Forum](https://github.com/Chuuch/Chuuch/assets/78451418/61916626-b956-445c-b304-be60b3207d7f)
 
-### Project 3: Spotify Clone
-The Spotify Clone Application is a sophisticated music streaming platform meticulously crafted using React, TypeScript, Tailwind CSS, Next.js, PostgreSQL, Supabase, and Stripe. Boasting a dynamic and responsive UI, the application offers secure user authentication through Supabase, while TypeScript ensures code quality and minimized runtime errors. Tailwind CSS contributes to a sleek and modern design, enhancing the user experience across devices. Leveraging PostgreSQL and Supabase for database management enables efficient storage and real-time functionality. The application replicates core Spotify features, allowing users to search, play, and create playlists, with Stripe integration ensuring a secure and seamless payment process for premium subscriptions. With its scalable architecture and clean codebase, the Spotify Clone stands as a high-quality replica, providing a realistic and enjoyable music streaming experience while offering a solid foundation for future enhancements and developments.
 
-![0A9F50FB-948E-4102-8F89-09DF7BD95D7A](https://github.com/Chuuch/Chuuch/assets/78451418/4c83ed1a-484e-4183-addb-70a4f8344cf3)
-
-### Project 4: Home4You MERN Real Estate
+### Project 3: Home4You MERN Real Estate
 
 This project is an advanced MERN Stack real estate application, featuring MongoDB, Express.js, React.js, Node.js, and Firebase. With Tailwind CSS for a polished UI, the platform offers secure JSON Web Token authentication and an optional Google Authentication via a convenient pop-up sign-in. Enhanced by Redux for efficient state management, this solution redefines the real estate experience, combining security, flexibility, and modern design.
 
 ![DA458D59-D899-46F7-A34B-61A9D72954D3](https://github.com/Chuuch/Chuuch/assets/78451418/f20cf3c3-8854-4b2f-91fc-4f4afb4ee15a)
 
-## 🎓 Courses
+## 🎓 Certifications
 
 ### Telerik Academy Alpha JavaScript Track
 
