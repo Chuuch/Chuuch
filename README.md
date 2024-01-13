@@ -60,6 +60,12 @@ This project is an advanced MERN Stack real estate application, featuring MongoD
 
 ![DA458D59-D899-46F7-A34B-61A9D72954D3](https://github.com/Chuuch/Chuuch/assets/78451418/f20cf3c3-8854-4b2f-91fc-4f4afb4ee15a)
 
+### Project 4: Xitter - Twitter Clone App
+
+Xitter is a full-stack Twitter clone application built with modern web technologies, including React, TypeScript, Tailwind CSS, Next.js, Zustand, and JWT authentication. This project aims to provide a scalable and feature-rich platform for users to share thoughts, engage in discussions, and connect with others in a familiar social media environment.
+
+![Screenshot 2024-01-13 at 22 39 20](https://github.com/Chuuch/Chuuch/assets/78451418/770dfcd7-0159-46f4-a83c-fde88ddf0b51)
+
 ## 🎓 Certifications
 
 ### Telerik Academy Alpha JavaScript Track
