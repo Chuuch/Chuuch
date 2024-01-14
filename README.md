@@ -55,6 +55,10 @@ experience, allowing for the effortless management of content.
 
 
 ### Project 3: Home4You MERN Real Estate
+https://home4you.onrender.com/
+
+![Screenshot 2024-01-14 at 16 12 14](https://github.com/Chuuch/Chuuch/assets/78451418/44795db1-5ab6-4742-8534-af5164238c13)
+
 
 This project is an advanced MERN Stack real estate application, featuring MongoDB, Express.js, React.js, Node.js, and Firebase. With Tailwind CSS for a polished UI, the platform offers secure JSON Web Token authentication and an optional Google Authentication via a convenient pop-up sign-in. Enhanced by Redux for efficient state management, this solution redefines the real estate experience, combining security, flexibility, and modern design.
 
