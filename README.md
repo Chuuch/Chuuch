@@ -71,6 +71,10 @@ https://xitter.onrender.com
 Xitter is a full-stack Twitter clone application built with modern web technologies, including React, TypeScript, Tailwind CSS, Next.js, Zustand, and JWT authentication. This project aims to provide a scalable and feature-rich platform for users to share thoughts, engage in discussions, and connect with others in a familiar social media environment.
 
 
+### Project 5: Jobber - React Native Job Search App
+
+The JobSearch React Native App is a mobile application built using Expo and powered by the Rapid API for seamless job searching. This app provides users with a convenient way to search for job opportunities based on various parameters, making the job hunting process efficient and user-friendly.
+
 ## 🎓 Certifications
 
 ### Telerik Academy Alpha JavaScript Track
