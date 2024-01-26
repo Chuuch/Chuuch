@@ -59,27 +59,25 @@ experience, allowing for the effortless management of content.
 ### Project 3: Home4You MERN Real Estate
 https://home4you.onrender.com/
 
-![Screenshot 2024-01-14 at 16 12 14](https://github.com/Chuuch/Chuuch/assets/78451418/44795db1-5ab6-4742-8534-af5164238c13)
-
-
 This project is an advanced MERN Stack real estate application, featuring MongoDB, Express.js, React.js, Node.js, and Firebase. With Tailwind CSS for a polished UI, the platform offers secure JSON Web Token authentication and an optional Google Authentication via a convenient pop-up sign-in. Enhanced by Redux for efficient state management, this solution redefines the real estate experience, combining security, flexibility, and modern design.
+
+![Screenshot 2024-01-14 at 16 12 14](https://github.com/Chuuch/Chuuch/assets/78451418/44795db1-5ab6-4742-8534-af5164238c13)
 
 
 ### Project 4: Xitter - Twitter Clone App
 https://xitter.onrender.com
 
-![Screenshot 2024-01-13 at 22 39 20](https://github.com/Chuuch/Chuuch/assets/78451418/770dfcd7-0159-46f4-a83c-fde88ddf0b51)
-
 Xitter is a full-stack Twitter clone application built with modern web technologies, including React, TypeScript, Tailwind CSS, Next.js, Zustand, and JWT authentication. This project aims to provide a scalable and feature-rich platform for users to share thoughts, engage in discussions, and connect with others in a familiar social media environment.
+
+![Screenshot 2024-01-13 at 22 39 20](https://github.com/Chuuch/Chuuch/assets/78451418/770dfcd7-0159-46f4-a83c-fde88ddf0b51)
 
 
 ### Project 5: Thiscord - Full-stack Discord Clone
 https://thiscord-clone.up.railway.app
 
-![Screenshot 2024-01-26 at 06 17 59](https://github.com/Chuuch/Chuuch/assets/78451418/fa7c59bf-65b5-4ee7-ab07-c265a6538925)
-
-
 The Full-Stack Discord Clone is a modern web application developed using Next.js, TypeScript, React, Tailwind CSS, Shadcn, Socket.IO, Prisma, Clerk, MySQL, Zustand, UploadThing, and Livekit. It offers real-time communication features, including instant messaging and audio/video calls, powered by Socket.IO and Livekit. Authentication and authorization are handled through Clerk, and Prisma is used for efficient database operations with MySQL as the backend. Zustand manages client-side state, ensuring a responsive and user-friendly experience. The project also incorporates UploadThing for secure file uploads. The setup process is well-documented, encouraging contributions from the open-source community, and the project is licensed under the MIT License.
+
+![Screenshot 2024-01-26 at 06 17 59](https://github.com/Chuuch/Chuuch/assets/78451418/fa7c59bf-65b5-4ee7-ab07-c265a6538925)
 
 
 ### Project 6: Jobber - React Native Job Search App
