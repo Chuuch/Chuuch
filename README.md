@@ -37,6 +37,8 @@ Exploring serverless architectures, Databases, and advanced optimization techniq
 ## 📚 Projects
 
 ### Project 1: Portfolio
+https://chuchulev-portfolio.vercel.app/
+
 A portfolio showcasing the projects I have worked on since the start of my journey as a
 software engineer. It is a representation of my growth, skill set & devotion to my dream
 of becoming a great developer. Technologies used in the project include React, TypeScript
