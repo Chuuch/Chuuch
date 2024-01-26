@@ -71,7 +71,16 @@ https://xitter.onrender.com
 Xitter is a full-stack Twitter clone application built with modern web technologies, including React, TypeScript, Tailwind CSS, Next.js, Zustand, and JWT authentication. This project aims to provide a scalable and feature-rich platform for users to share thoughts, engage in discussions, and connect with others in a familiar social media environment.
 
 
-### Project 5: Jobber - React Native Job Search App
+### Project 5: Thiscord - Full-stack Discord Clone
+https://thiscord-clone.up.railway.app
+
+![Screenshot 2024-01-26 at 06 17 59](https://github.com/Chuuch/Chuuch/assets/78451418/fa7c59bf-65b5-4ee7-ab07-c265a6538925)
+
+
+The Full-Stack Discord Clone is a modern web application developed using Next.js, TypeScript, React, Tailwind CSS, Shadcn, Socket.IO, Prisma, Clerk, MySQL, Zustand, UploadThing, and Livekit. It offers real-time communication features, including instant messaging and audio/video calls, powered by Socket.IO and Livekit. Authentication and authorization are handled through Clerk, and Prisma is used for efficient database operations with MySQL as the backend. Zustand manages client-side state, ensuring a responsive and user-friendly experience. The project also incorporates UploadThing for secure file uploads. The setup process is well-documented, encouraging contributions from the open-source community, and the project is licensed under the MIT License.
+
+
+### Project 6: Jobber - React Native Job Search App
 
 The JobSearch React Native App is a mobile application built using Expo and powered by the Rapid API for seamless job searching. This app provides users with a convenient way to search for job opportunities based on various parameters, making the job hunting process efficient and user-friendly.
 
