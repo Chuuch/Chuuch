@@ -97,7 +97,15 @@ The Full-Stack Discord Clone is a modern web application developed using Next.js
 ![Screenshot 2024-01-26 at 06 17 59](https://github.com/Chuuch/Chuuch/assets/78451418/fa7c59bf-65b5-4ee7-ab07-c265a6538925)
 
 
-### Project 6: Jobber - React Native Job Search App
+### PRoject 6: Chefs Place Website
+https://chefs-place.vercel.app/
+
+![screenshot](https://github.com/Chuuch/Chuuch/assets/78451418/095e7f43-e121-4473-bb75-8b839ca68ed8)
+
+
+This project is a responsive and dynamic restaurant website built using React and Bootstrap 5. The website is designed to provide an engaging user experience for customers who want to explore the restaurant's menu, learn about its story, and make reservations. The use of React ensures a fast and seamless user interface, while Bootstrap 5 provides a modern and visually appealing design.
+
+### Project 7: Jobber - React Native Job Search App
 
 The JobSearch React Native App is a mobile application built using Expo and powered by the Rapid API for seamless job searching. This app provides users with a convenient way to search for job opportunities based on various parameters, making the job hunting process efficient and user-friendly.
 
