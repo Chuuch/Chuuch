@@ -97,7 +97,7 @@ The Full-Stack Discord Clone is a modern web application developed using Next.js
 ![Screenshot 2024-01-26 at 06 17 59](https://github.com/Chuuch/Chuuch/assets/78451418/fa7c59bf-65b5-4ee7-ab07-c265a6538925)
 
 
-### PRoject 6: Chefs Place Website
+### Project 6: Chefs Place Website
 https://chefs-place.vercel.app/
 
 ![screenshot](https://github.com/Chuuch/Chuuch/assets/78451418/095e7f43-e121-4473-bb75-8b839ca68ed8)
