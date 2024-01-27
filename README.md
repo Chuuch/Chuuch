@@ -34,6 +34,11 @@ I am a results-driven software developer with a passion for building innovative 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-333333?style=flat&logo=sanity&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
+
+Feel free to include these badges in your README to showcase the technologies used in your project.
 
 
 Feel free to incorporate these badges into your project's README as needed.
