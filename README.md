@@ -45,7 +45,7 @@ Feel free to incorporate these badges into your project's README as needed.
 
 ## 🌱 Currently Learning
 
-Exploring serverless architectures, Databases, and advanced optimization techniques.
+Currently learning C# & .NET
 
 ## 📈 GitHub Stats
 
