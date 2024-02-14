@@ -45,7 +45,7 @@ Feel free to incorporate these badges into your project's README as needed.
 
 ## 🌱 Currently Learning
 
-Currently learning C# & .NET
+Exploring C# & .NET framework
 
 ## 📈 GitHub Stats
 
