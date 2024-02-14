@@ -61,7 +61,8 @@ software engineer. It is a representation of my growth, skill set & devotion to 
 of becoming a great developer. Technologies used in the project include React, TypeScript
 Tailwind CSS, Framer Motion, Sanity CMS & Next JS among others.
 
-![ECD650AB-A07D-444A-AC8C-8D3AC1A9D9A7](https://github.com/Chuuch/Chuuch/assets/78451418/44ada944-def3-46da-a0b4-752eca824111)
+![image](https://github.com/Chuuch/Chuuch/assets/78451418/a27a0fa7-b4c1-458b-9156-7be95df6e9f2)
+
 
 ### Project 2: DevTalk Forum
 A forum web application designed for seamless user interaction, built with React, Tailwind
