@@ -45,7 +45,7 @@ Feel free to incorporate these badges into your project's README as needed.
 
 ## 🌱 Currently Learning
 
-Exploring C# & .NET framework
+Exploring Java & Spring Boot
 
 ## 📈 GitHub Stats
 
