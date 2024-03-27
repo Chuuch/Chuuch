@@ -42,7 +42,7 @@ I am a results-driven software developer with a passion for building innovative 
 
 ## 🌱 Currently Learning
 
-Exploring Java & Spring Boot
+Exploring SQL & RDBMS
 
 ## 📈 GitHub Stats
 
