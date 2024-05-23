@@ -2,7 +2,7 @@
 # Daniel Chuchulev
 
 <!-- Introduction -->
-Aspiring Software Developer with a passion for learning & innovation | Full-Stack Enthusiast
+Web 3 Security Researcher & Software Developer with a passion for learning & innovation
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuchulev)
