@@ -46,7 +46,7 @@ https://github.com/Chuuch/network-threat-analyzer
 
 Network Threat Analyzer is a tool that scans an IP address or domain name and checks against AbuseIPDB to determine if it has been blacklisted as a malicious address.
 
-## Features
+#### Features
 
 - Scan IP addresses and domain names for potential threats
 - Check against AbuseIPDB for blacklisted addresses
