@@ -40,6 +40,20 @@ Studying for COMPTIA Security+
 
 ## 📚 Projects
 
+### Network Threat Analyzer
+
+https://github.com/Chuuch/network-threat-analyzer
+
+Network Threat Analyzer is a tool that scans an IP address or domain name and checks against AbuseIPDB to determine if it has been blacklisted as a malicious address.
+
+## Features
+
+- Scan IP addresses and domain names for potential threats
+- Check against AbuseIPDB for blacklisted addresses
+- Easy-to-use command line interface
+
+![image](https://github.com/user-attachments/assets/4a26c10c-c337-4d7d-8565-fb8013699357)
+
 
 ## 🎓 Certifications
 
