@@ -35,7 +35,7 @@ Studying for COMPTIA Security+
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuuch&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=30,0f0c29,302b63,24243e&title_color=ff6347&text_color=00ff00&icon_color=ffdd54&border_radius=10&border_color=fff)](https://github.com/Chuuch)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuuch&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=ffdd54&border_radius=10&border_color=00ff00)](https://github.com/Chuuch)
 
 ## 📚 Projects
 
