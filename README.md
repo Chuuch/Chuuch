@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Daniel Chuchulev
+# Hello friend, I am Daniel!
 
 <!-- Introduction -->
 Web 3 & Cybersecurity Enthusiast, Software Developer with a passion for learning & innovation
