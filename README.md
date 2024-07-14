@@ -54,6 +54,7 @@ Network Threat Analyzer is a tool that scans an IP address or domain name and ch
 
 ![image](https://github.com/user-attachments/assets/4a26c10c-c337-4d7d-8565-fb8013699357)
 
+---
 
 ### Cypher Project: Caesar Cipher
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -67,19 +68,21 @@ The Caesar Cipher project implements the classic Caesar cipher encryption and de
 - Decode messages encrypted with the Caesar cipher
 - Adjustable shift value for encryption/decryption
 
+---
 
 ### SHA-1 Password Cracking Tool
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-This tool attempts to crack passwords hashed using the SHA-1 algorithm. It employs a dictionary attack method, where it compares hashed entries from a dictionary file against the target hash.
-
 https://github.com/Chuuch/Cybersecurity-Projects/tree/main/PythonSHA1Cracker
+
+This tool attempts to crack passwords hashed using the SHA-1 algorithm. It employs a dictionary attack method, where it compares hashed entries from a dictionary file against the target hash.
 
 #### Features
 - Dictionary attack for cracking SHA-1 hashes
 - Load and process large dictionary files
 - Output the cracked password if found
 
+---
 
 ### Password Generator
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -93,6 +96,7 @@ The Password Generator creates strong, random passwords based on user-defined cr
 - Include/exclude uppercase letters, lowercase letters, numbers, and special characters
 - Copy generated passwords to clipboard
 
+---
 
 ### Password Manager Tool
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -105,6 +109,8 @@ The Password Manager Tool securely stores and manages passwords for various acco
 - Secure storage of passwords
 - Encrypt and decrypt stored passwords
 - Retrieve passwords using a master key
+
+---
 
 
 ## 🎓 Certifications
