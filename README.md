@@ -1,11 +1,11 @@
 <!-- Your Name -->
-# Hello friend, I am Daniel!
+# Hello friend. I am Daniel 👋🏻!
 
 <!-- Introduction -->
 Web 3 & Cybersecurity Enthusiast, Software Developer with a passion for learning & innovation
 
 <!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chuchulev/)x
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chuchulev/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/0xchuch)
 ## 🚀 About Me
 
@@ -35,7 +35,7 @@ Studying for COMPTIA Security+
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuuch&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Chuuch)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuuch&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=30,0f0c29,302b63,24243e&title_color=ff6347&text_color=00ff00&icon_color=ffdd54&border_radius=10&border_color=fff)](https://github.com/Chuuch)
 
 ## 📚 Projects
 
