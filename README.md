@@ -5,9 +5,8 @@
 Web 3 & Cybersecurity Enthusiast, Software Developer with a passion for learning & innovation
 
 <!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuchulev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/chuchulev)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chuchulev/)x
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/0xchuch)
 ## 🚀 About Me
 
 I am a results-driven cybersecurity professional with a passion for securing innovative and scalable systems. My technical expertise spans a wide range of security technologies, with a focus on safeguarding sensitive data, preventing unauthorized access, and ensuring the integrity and availability of critical infrastructure.
