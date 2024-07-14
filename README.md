@@ -41,6 +41,7 @@ Studying for COMPTIA Security+
 ## 📚 Projects
 
 ### Network Threat Analyzer
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 https://github.com/Chuuch/network-threat-analyzer
 
@@ -53,6 +54,58 @@ Network Threat Analyzer is a tool that scans an IP address or domain name and ch
 - Easy-to-use command line interface
 
 ![image](https://github.com/user-attachments/assets/4a26c10c-c337-4d7d-8565-fb8013699357)
+
+
+### Cypher Project: Caesar Cipher
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+https://github.com/Chuuch/Cybersecurity-Projects/tree/main/Cypher
+
+The Caesar Cipher project implements the classic Caesar cipher encryption and decryption technique. It allows users to encode and decode messages by shifting letters of the alphabet by a fixed number of positions.
+
+#### Features
+- Encode messages using the Caesar cipher
+- Decode messages encrypted with the Caesar cipher
+- Adjustable shift value for encryption/decryption
+
+
+### SHA-1 Password Cracking Tool
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+This tool attempts to crack passwords hashed using the SHA-1 algorithm. It employs a dictionary attack method, where it compares hashed entries from a dictionary file against the target hash.
+
+https://github.com/Chuuch/Cybersecurity-Projects/tree/main/PythonSHA1Cracker
+
+#### Features
+- Dictionary attack for cracking SHA-1 hashes
+- Load and process large dictionary files
+- Output the cracked password if found
+
+
+### Password Generator
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+https://github.com/Chuuch/Cybersecurity-Projects/tree/main/Passgen
+
+The Password Generator creates strong, random passwords based on user-defined criteria such as length and character sets. This tool helps enhance security by generating robust passwords that are hard to guess.
+
+#### Features
+- Generate random passwords of specified length
+- Include/exclude uppercase letters, lowercase letters, numbers, and special characters
+- Copy generated passwords to clipboard
+
+
+### Password Manager Tool
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+https://github.com/Chuuch/Cybersecurity-Projects/tree/main/Passman
+
+The Password Manager Tool securely stores and manages passwords for various accounts. It provides encryption to protect stored passwords and offers easy retrieval when needed.
+
+#### Features
+- Secure storage of passwords
+- Encrypt and decrypt stored passwords
+- Retrieve passwords using a master key
 
 
 ## 🎓 Certifications
