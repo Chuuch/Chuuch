@@ -10,20 +10,25 @@ Web 3 & Cybersecurity Enthusiast, Software Developer with a passion for learning
 
 ## 🚀 About Me
 
-I am a results-driven person with a passion for building, implementing & securing innovative and scalable applications. My technical expertise includes a wide range of technologies, with a focus on crafting seamless user experiences and robust backend solutions.
+I am a results-driven cybersecurity professional with a passion for securing innovative and scalable systems. My technical expertise spans a wide range of security technologies, with a focus on safeguarding sensitive data, preventing unauthorized access, and ensuring the integrity and availability of critical infrastructure.
 
 ## 💻 Technologies & Tools
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue.svg?logo=nmap&logoColor=white&style=flat)
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploit%20Framework-blue.svg?logo=metasploit&logoColor=white&style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security%20Scanner-orange.svg?logo=burp%20suite&logoColor=white&style=flat)
+![Snort](https://img.shields.io/badge/Snort-Intrusion%20Detection%20System-blue.svg?logo=snort&logoColor=white&style=flat)
+![OSSEC](https://img.shields.io/badge/OSSEC-Open%20Source%20Security%20Platform-blue.svg?logo=security&logoColor=white&style=flat)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-Vulnerability%20Assessment%20System-blue.svg?logo=openvas&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ## 🌱 Currently Learning
 
