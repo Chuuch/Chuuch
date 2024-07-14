@@ -32,7 +32,7 @@ I am a results-driven cybersecurity professional with a passion for securing inn
 
 ## 🌱 Currently Learning
 
-Focused on Web 2 & 3 Security
+Studying for COMPTIA Security+
 
 ## 📈 GitHub Stats
 
@@ -47,6 +47,17 @@ Focused on Web 2 & 3 Security
 
 ![certificate](https://github.com/Chuuch/Chuuch/assets/78451418/5dc97cc7-6ae7-4b3d-81ff-0bdb0152d932)
 ![Screenshot 2024-01-07 at 21 55 32](https://github.com/Chuuch/Chuuch/assets/78451418/c9822622-95ff-4e7d-865b-c99423fc042f)
+
+### Telerik Academy Buddy Group Mentorship
+
+![Screenshot 2024-07-14 at 11 43 33](https://github.com/user-attachments/assets/1c67ab8a-3067-4f2f-9cbe-1b2cfae5b3ef)
+
+
+### Telerik Academy Team Mentorship
+
+![Screenshot 2024-07-14 at 11 47 21](https://github.com/user-attachments/assets/36e89619-4f89-445a-a115-29e6b3852ae8)
+
+
 
 
 ## 📫 Let's Connect
