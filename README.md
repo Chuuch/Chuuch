@@ -9,7 +9,7 @@ A Passionate Software Developer & Security researcher. 💻 🔍
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/0xchuch)
 ## 🚀 About Me
 
-I am a results-driven cybersecurity professional with a passion for securing innovative and scalable systems. My technical expertise spans a wide range of security technologies, with a focus on safeguarding sensitive data, preventing unauthorized access, and ensuring the integrity and availability of critical infrastructure.
+I am a results-driven professional with a passion for creating innovative and scalable systems. My technical expertise spans a wide range of development & security technologies, with a focus on safeguarding sensitive data, preventing unauthorized access, and ensuring the integrity and availability of critical infrastructure.
 
 ## 💻 Technologies & Tools
 
@@ -58,86 +58,12 @@ I am a results-driven cybersecurity professional with a passion for securing inn
 
 ## 🌱 Currently Learning
 
-Studying for COMPTIA Security+
+Working on personal projects & pursuing opportunities.
 
 ## 📈 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuuch&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=ffdd54&border_radius=10&border_color=00ff00)](https://github.com/Chuuch)
 
-## 📚 Projects
-
-### Network Threat Analyzer
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-https://github.com/Chuuch/network-threat-analyzer
-
-Network Threat Analyzer is a tool that scans an IP address or domain name and checks against AbuseIPDB to determine if it has been blacklisted as a malicious address.
-
-#### Features
-
-- Scan IP addresses and domain names for potential threats
-- Check against AbuseIPDB for blacklisted addresses
-- Easy-to-use command line interface
-
-![image](https://github.com/user-attachments/assets/4a26c10c-c337-4d7d-8565-fb8013699357)
-
----
-
-### Cypher Project: Caesar Cipher
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-https://github.com/Chuuch/Cybersecurity-Projects/tree/main/Cypher
-
-The Caesar Cipher project implements the classic Caesar cipher encryption and decryption technique. It allows users to encode and decode messages by shifting letters of the alphabet by a fixed number of positions.
-
-#### Features
-- Encode messages using the Caesar cipher
-- Decode messages encrypted with the Caesar cipher
-- Adjustable shift value for encryption/decryption
-
----
-
-### SHA-1 Password Cracking Tool
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-https://github.com/Chuuch/Cybersecurity-Projects/tree/main/PythonSHA1Cracker
-
-This tool attempts to crack passwords hashed using the SHA-1 algorithm. It employs a dictionary attack method, where it compares hashed entries from a dictionary file against the target hash.
-
-#### Features
-- Dictionary attack for cracking SHA-1 hashes
-- Load and process large dictionary files
-- Output the cracked password if found
-
----
-
-### Password Generator
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-https://github.com/Chuuch/Cybersecurity-Projects/tree/main/Passgen
-
-The Password Generator creates strong, random passwords based on user-defined criteria such as length and character sets. This tool helps enhance security by generating robust passwords that are hard to guess.
-
-#### Features
-- Generate random passwords of specified length
-- Include/exclude uppercase letters, lowercase letters, numbers, and special characters
-- Copy generated passwords to clipboard
-
----
-
-### Password Manager Tool
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-https://github.com/Chuuch/Cybersecurity-Projects/tree/main/Passman
-
-The Password Manager Tool securely stores and manages passwords for various accounts. It provides encryption to protect stored passwords and offers easy retrieval when needed.
-
-#### Features
-- Secure storage of passwords
-- Encrypt and decrypt stored passwords
-- Retrieve passwords using a master key
-
----
 
 
 ## 🎓 Certifications
