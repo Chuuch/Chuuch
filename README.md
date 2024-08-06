@@ -88,4 +88,4 @@ Working on personal projects & pursuing opportunities.
 
 Feel free to reach out for collaboration, mentorship, or just to chat about the latest tech trends. Connect with me on [LinkedIn](https://www.linkedin.com/in/chuchulev) or follow me on [Twitter](https://twitter.com/chuchulev).
 
-Happy hacking! 👨‍💻
+Happy coding! 👨‍💻
