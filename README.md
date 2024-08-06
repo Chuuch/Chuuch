@@ -2,7 +2,7 @@
 # Hello friend. I am Daniel 👋🏻!
 
 <!-- Introduction -->
-Web 3 & Cybersecurity Enthusiast, Software Developer with a passion for learning & innovation
+A Passionate Software Developer & Security researcher. 💻 🔍
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chuchulev/)
