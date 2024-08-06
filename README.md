@@ -12,6 +12,8 @@ Web 3 & Cybersecurity Enthusiast, Software Developer with a passion for learning
 I am a results-driven cybersecurity professional with a passion for securing innovative and scalable systems. My technical expertise spans a wide range of security technologies, with a focus on safeguarding sensitive data, preventing unauthorized access, and ensuring the integrity and availability of critical infrastructure.
 
 ## 💻 Technologies & Tools
+
+#Security
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
