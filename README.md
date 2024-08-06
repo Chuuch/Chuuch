@@ -62,8 +62,7 @@ Working on personal projects & pursuing opportunities.
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuuch&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=ffdd54&border_radius=10&border_color=00ff00)](https://github.com/Chuuch)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuuch&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=0d1117&title_color=00aaff&text_color=00aaff&icon_color=00aaff&border_radius=10&border_color=00aaff)](https://github.com/Chuuch)
 
 
 ## 🎓 Certifications
