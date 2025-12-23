@@ -2,7 +2,7 @@
 # Hello friend. I am Daniel 👋🏻!
 
 <!-- Introduction -->
-A Passionate Software Developer & Security researcher. 💻 🔍
+A Passionate Software Developer 💻 🔍
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chuchulev/)
@@ -41,20 +41,6 @@ I am a results-driven professional with a passion for creating innovative and sc
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### Security
-
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue.svg?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Exploit%20Framework-blue.svg?style=for-the-badge&logo=metasploit&logoColor=white&)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security%20Scanner-orange.svg?style=for-the-badge&logo=burp%20suite&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-Intrusion%20Detection%20System-blue.svg?style=for-the-badge&logo=snort&logoColor=white)
-![OSSEC](https://img.shields.io/badge/OSSEC-Open%20Source%20Security%20Platform-blue.svg?style=for-the-badge&logo=security&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-Vulnerability%20Assessment%20System-blue.svg?style=for-the-badge&logo=openvas&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ## 🌱 Currently Learning
 
