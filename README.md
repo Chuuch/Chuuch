@@ -39,9 +39,8 @@ I am a results-driven professional with a passion for creating innovative and sc
 ![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 ## 🌱 Currently Learning
 
