@@ -41,7 +41,7 @@ I am a results-driven professional with a passion for creating innovative and sc
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 
 ## 🌱 Currently Learning
 
