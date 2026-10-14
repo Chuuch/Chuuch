@@ -16,7 +16,6 @@ I am a results-driven professional with a passion for creating innovative and sc
 ### Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/-Rust-3776AB?logo=Rust&logoColor=orange&style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -32,7 +31,6 @@ I am a results-driven professional with a passion for creating innovative and sc
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer%20Motion-%23EA4C89.svg?style=for-the-badge&logo=framer&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![ShadcnUI](https://img.shields.io/badge/ShadcnUI-%2344A8C3.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
