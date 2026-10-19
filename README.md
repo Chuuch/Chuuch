@@ -2,7 +2,7 @@
 # Hello friend. I am Daniel 👋🏻!
 
 <!-- Introduction -->
-A Passionate Software Developer 💻 🔍
+A curious Software Engineer 💻 🔍
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chuchulev/)
